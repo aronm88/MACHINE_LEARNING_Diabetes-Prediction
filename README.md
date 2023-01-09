@@ -11,6 +11,7 @@ The project uses three classification machine learning algorithms:
 
 <br>
 The project includes some common techniques used while working with machine learning algorithms: <br>
+
 - Exploratory data analysis (EDA)
 - Visualizations
 - Feature engineering
